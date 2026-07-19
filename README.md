@@ -69,21 +69,21 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=NavyaSree50&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=NavyaSree50&show_icons=true&theme=rose_pine)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaSree50&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NavyaSree50&layout=compact&theme=rose_pine)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=NavyaSree50&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=NavyaSree50&theme=rose_pine)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=NavyaSree50&theme=tokyonight&no-frame=true)
+![](https://github-profile-trophy.vercel.app/?username=NavyaSree50&theme=rose_pine&no-frame=true)
 
 ---
 
