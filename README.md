@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Navya Sree
 
-<!--
-**NavyaSree50/NavyaSree50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Computer Science Engineering Student
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 B.Tech CSE Student
+- 🌱 Learning Java, DSA, HTML, CSS, JavaScript
+- 🔥 Interested in Full-Stack Web Development
+- 📚 Building projects every day
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Java
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+- Node.js (Learning)
+- MongoDB (Learning)
+
+## 📂 Projects
+- 🌐 Portfolio Website
+- ✅ To-Do App
+- 🧮 Calculator
+- ❤️ Smart Community Care Platform
+
+## 📫 Connect with me
+GitHub: https://github.com/NavyaSree50
