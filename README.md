@@ -3,7 +3,7 @@
 <h3 align="center">💻 Computer Science Engineering Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Engineering+Student;Java+Developer;Full+Stack+Developer;Always+Learning+New+Things!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Computer+Science+Engineering+Student;Full+Stack+Developer;Always+Learning+New+Things!" />
 </p>
 
 ---
