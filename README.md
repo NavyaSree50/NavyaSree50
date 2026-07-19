@@ -18,20 +18,10 @@
 
 💡 Interested in Software Development, Full-Stack Development and Open Source.
 
-🤝 Open to collaboration and learning opportunities.
+🤝 Open to collaboration .
 
 ⚡ Fun Fact:
 Turning ideas into code, one project at a time. 
-
-🌱 Currently Learning
-- Java
-- Data Structures & Algorithms
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
 
 
 
