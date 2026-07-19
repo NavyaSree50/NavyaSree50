@@ -68,8 +68,6 @@ Turning ideas into code, one project at a time.
 
 ⭐ Smart Community Care Platform *(In Progress)*
 
-⭐ Personal Portfolio Website *(Coming Soon)*
-
 ⭐ To-Do Web Application
 
 ⭐ Calculator Web App
