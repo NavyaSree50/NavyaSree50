@@ -14,6 +14,15 @@
 
 💻 Aspiring Full-Stack Software Developer
 
+🚀 Building real-world projects and improving my coding skills every day.
+
+💡 Interested in Software Development, Full-Stack Development and Open Source.
+
+🤝 Open to collaboration and learning opportunities.
+
+⚡ Fun Fact:
+Turning ideas into code, one project at a time. 
+
 🌱 Currently Learning
 - Java
 - Data Structures & Algorithms
@@ -24,20 +33,7 @@
 - Express.js
 - MongoDB
 
-🚀 Building real-world projects and improving my coding skills every day.
 
-💡 Interested in Software Development, Full-Stack Development and Open Source.
-
-🤝 Open to collaboration and learning opportunities.
-
-⚡ Fun Fact:
-Turning ideas into code, one project at a time. ☕
-
-```java
-class NavyaSree {
-    String mindset = "Never Stop Learning 🚀";
-}
-```
 
 ---
 
