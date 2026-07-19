@@ -104,7 +104,7 @@
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/NavyaSree50
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/navyasree-chamarthi-96206432b
 
 ---
 
